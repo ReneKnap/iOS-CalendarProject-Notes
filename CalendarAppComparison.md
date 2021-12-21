@@ -67,11 +67,11 @@ n.a.
 </figure>
 
 <div style="content: ""; clear: both; display: table;">  
-    <div style="float: left; width: 33.33%; padding: 5px;">    
-        <img src="Images\AppleCalendarIPad_NewEventView_01.jpg" style="width:100%"/>
+    <div style="float: left; width: 33.3%; padding: 3px;">    
+        <img src="Images\AppleCalendarIPad_NewEventView_01.jpg"/>
     </div>  
-    <div style="float: left; width: 33.33%; padding: 5px;">    
-    	<img src="Images\AppleCalendarIPad_NewEventView_02.jpg" style="width:100%"/>
+    <div style="float: left; width: 33.3%; padding: 3px;">    
+    	<img src="Images\AppleCalendarIPad_NewEventView_02.jpg"/>
     </div>  
 </div>
 
