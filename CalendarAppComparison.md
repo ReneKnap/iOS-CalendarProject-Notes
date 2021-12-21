@@ -62,20 +62,9 @@ n.a.
 ### Apple Calendar IPad
 
 <figure>
-	<img src="Images\AppleCalendarIPad_NewEventView_01.jpg" style="width:33%"/>
-    <img src="Images\AppleCalendarIPad_NewEventView_02.jpg" style="width:33%"/>
+	<img src="Images\AppleCalendarIPad_NewEventView_01.jpg" style="width:33%; float: left"/>
+    <img src="Images\AppleCalendarIPad_NewEventView_02.jpg" style="width:33%; float: left"/>
 </figure>
-
-<div style="content: ""; clear: both; display: table;">  
-    <div style="float: left; width: 33.3%; padding: 3px;">    
-        <img src="Images\AppleCalendarIPad_NewEventView_01.jpg"/>
-    </div>  
-    <div style="float: left; width: 33.3%; padding: 3px;">    
-    	<img src="Images\AppleCalendarIPad_NewEventView_02.jpg"/>
-    </div>  
-</div>
-
-
 
 ## Upcoming Event View
 
@@ -86,6 +75,10 @@ n.a.
 </figure>
 ### Apple Calendar IPad
 
+<figure>
+	<img src="Images\AppleCalendarIPad_UpcomingEventView.jpg" style="width:33%"/>
+</figure>
+
 ## Calendars View
 
 ### Apple Calendar IPhone
@@ -94,6 +87,10 @@ n.a.
 	<img src="Images\AppleCalendarIPhone_CalendarsView.png" style="width:25%"/>
 </figure>
 ### Apple Calendar IPad
+
+<figure>
+	<img src="Images\AppleCalendarIPad_CalendarsView.jpg" style="width:33%"/>
+</figure>
 
 ## New Calendar View
 
@@ -104,6 +101,10 @@ n.a.
 </figure>
 ### Apple Calendar IPad
 
+<figure>
+	<img src="Images\AppleCalendarIPad_NewCalendarView.jpg" style="width:33%"/>
+</figure>
+
 ## Search View
 
 ### Apple Calendar IPhone
@@ -112,3 +113,7 @@ n.a.
 	<img src="Images\AppleCalendarIPhone_SearchView.png" style="width:25%"/>
 </figure>
 ### Apple Calendar IPad
+
+<figure>
+	<img src="Images\AppleCalendarIPad_SearchView.jpg" style="width:33%"/>
+</figure>
